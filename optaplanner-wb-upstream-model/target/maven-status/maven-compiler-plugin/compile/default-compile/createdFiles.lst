@@ -1,0 +1,15 @@
+org/optaplanner/workbench/upstream/model/marshalling/HardMediumSoftScoreMapper.class
+org/optaplanner/workbench/upstream/model/marshalling/HardMediumSoftBigDecimalScoreMapper.class
+org/optaplanner/workbench/upstream/model/marshalling/HardSoftScoreMapper.class
+classlist.mf
+org/optaplanner/workbench/upstream/model/marshalling/SimpleScoreMapper.class
+org/optaplanner/workbench/upstream/model/marshalling/BendableBigDecimalScoreMapper.class
+org/optaplanner/workbench/upstream/model/marshalling/HardSoftBigDecimalScoreMapper.class
+org/optaplanner/workbench/upstream/model/marshalling/HardSoftDoubleScoreMapper.class
+org/optaplanner/workbench/upstream/model/marshalling/SimpleDoubleScoreMapper.class
+org/optaplanner/workbench/upstream/model/marshalling/HardSoftLongScoreMapper.class
+org/optaplanner/workbench/upstream/model/marshalling/HardMediumSoftLongScoreMapper.class
+org/optaplanner/workbench/upstream/model/marshalling/SimpleBigDecimalScoreMapper.class
+org/optaplanner/workbench/upstream/model/marshalling/BendableLongScoreMapper.class
+org/optaplanner/workbench/upstream/model/marshalling/BendableScoreMapper.class
+org/optaplanner/workbench/upstream/model/marshalling/SimpleLongScoreMapper.class

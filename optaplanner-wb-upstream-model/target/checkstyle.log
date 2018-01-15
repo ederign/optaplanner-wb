@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="7.4">
+<file name="/home/tonirikkola/Work/Codes/master/optaplanner-wb/optaplanner-wb-upstream-model/src/main/java/org/optaplanner/workbench/upstream/model/marshalling/HardMediumSoftScoreMapper.java">
+</file>
+<file name="/home/tonirikkola/Work/Codes/master/optaplanner-wb/optaplanner-wb-upstream-model/src/main/java/org/optaplanner/workbench/upstream/model/marshalling/HardSoftBigDecimalScoreMapper.java">
+</file>
+<file name="/home/tonirikkola/Work/Codes/master/optaplanner-wb/optaplanner-wb-upstream-model/src/main/java/org/optaplanner/workbench/upstream/model/marshalling/HardMediumSoftLongScoreMapper.java">
+</file>
+<file name="/home/tonirikkola/Work/Codes/master/optaplanner-wb/optaplanner-wb-upstream-model/src/main/java/org/optaplanner/workbench/upstream/model/marshalling/BendableLongScoreMapper.java">
+</file>
+<file name="/home/tonirikkola/Work/Codes/master/optaplanner-wb/optaplanner-wb-upstream-model/src/main/java/org/optaplanner/workbench/upstream/model/marshalling/SimpleScoreMapper.java">
+</file>
+<file name="/home/tonirikkola/Work/Codes/master/optaplanner-wb/optaplanner-wb-upstream-model/src/main/java/org/optaplanner/workbench/upstream/model/marshalling/BendableBigDecimalScoreMapper.java">
+</file>
+<file name="/home/tonirikkola/Work/Codes/master/optaplanner-wb/optaplanner-wb-upstream-model/src/main/java/org/optaplanner/workbench/upstream/model/marshalling/BendableScoreMapper.java">
+</file>
+<file name="/home/tonirikkola/Work/Codes/master/optaplanner-wb/optaplanner-wb-upstream-model/src/main/java/org/optaplanner/workbench/upstream/model/marshalling/SimpleBigDecimalScoreMapper.java">
+</file>
+<file name="/home/tonirikkola/Work/Codes/master/optaplanner-wb/optaplanner-wb-upstream-model/src/main/java/org/optaplanner/workbench/upstream/model/marshalling/HardSoftLongScoreMapper.java">
+</file>
+<file name="/home/tonirikkola/Work/Codes/master/optaplanner-wb/optaplanner-wb-upstream-model/src/main/java/org/optaplanner/workbench/upstream/model/marshalling/HardSoftDoubleScoreMapper.java">
+</file>
+<file name="/home/tonirikkola/Work/Codes/master/optaplanner-wb/optaplanner-wb-upstream-model/src/main/java/org/optaplanner/workbench/upstream/model/marshalling/SimpleLongScoreMapper.java">
+</file>
+<file name="/home/tonirikkola/Work/Codes/master/optaplanner-wb/optaplanner-wb-upstream-model/src/main/java/org/optaplanner/workbench/upstream/model/marshalling/SimpleDoubleScoreMapper.java">
+</file>
+<file name="/home/tonirikkola/Work/Codes/master/optaplanner-wb/optaplanner-wb-upstream-model/src/main/java/org/optaplanner/workbench/upstream/model/marshalling/HardMediumSoftBigDecimalScoreMapper.java">
+</file>
+<file name="/home/tonirikkola/Work/Codes/master/optaplanner-wb/optaplanner-wb-upstream-model/src/main/java/org/optaplanner/workbench/upstream/model/marshalling/HardSoftScoreMapper.java">
+</file>
+<file name="/home/tonirikkola/Work/Codes/master/optaplanner-wb/optaplanner-wb-upstream-model/src/main/resources/META-INF/ErraiApp.properties">
+</file>
+</checkstyle>

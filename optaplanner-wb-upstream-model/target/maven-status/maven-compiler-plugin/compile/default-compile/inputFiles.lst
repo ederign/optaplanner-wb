@@ -1,0 +1,14 @@
+/home/tonirikkola/Work/Codes/master/optaplanner-wb/optaplanner-wb-upstream-model/src/main/java/org/optaplanner/workbench/upstream/model/marshalling/HardSoftBigDecimalScoreMapper.java
+/home/tonirikkola/Work/Codes/master/optaplanner-wb/optaplanner-wb-upstream-model/src/main/java/org/optaplanner/workbench/upstream/model/marshalling/HardMediumSoftLongScoreMapper.java
+/home/tonirikkola/Work/Codes/master/optaplanner-wb/optaplanner-wb-upstream-model/src/main/java/org/optaplanner/workbench/upstream/model/marshalling/BendableScoreMapper.java
+/home/tonirikkola/Work/Codes/master/optaplanner-wb/optaplanner-wb-upstream-model/src/main/java/org/optaplanner/workbench/upstream/model/marshalling/SimpleLongScoreMapper.java
+/home/tonirikkola/Work/Codes/master/optaplanner-wb/optaplanner-wb-upstream-model/src/main/java/org/optaplanner/workbench/upstream/model/marshalling/SimpleScoreMapper.java
+/home/tonirikkola/Work/Codes/master/optaplanner-wb/optaplanner-wb-upstream-model/src/main/java/org/optaplanner/workbench/upstream/model/marshalling/SimpleDoubleScoreMapper.java
+/home/tonirikkola/Work/Codes/master/optaplanner-wb/optaplanner-wb-upstream-model/src/main/java/org/optaplanner/workbench/upstream/model/marshalling/SimpleBigDecimalScoreMapper.java
+/home/tonirikkola/Work/Codes/master/optaplanner-wb/optaplanner-wb-upstream-model/src/main/java/org/optaplanner/workbench/upstream/model/marshalling/BendableBigDecimalScoreMapper.java
+/home/tonirikkola/Work/Codes/master/optaplanner-wb/optaplanner-wb-upstream-model/src/main/java/org/optaplanner/workbench/upstream/model/marshalling/HardSoftScoreMapper.java
+/home/tonirikkola/Work/Codes/master/optaplanner-wb/optaplanner-wb-upstream-model/src/main/java/org/optaplanner/workbench/upstream/model/marshalling/HardSoftLongScoreMapper.java
+/home/tonirikkola/Work/Codes/master/optaplanner-wb/optaplanner-wb-upstream-model/src/main/java/org/optaplanner/workbench/upstream/model/marshalling/HardMediumSoftBigDecimalScoreMapper.java
+/home/tonirikkola/Work/Codes/master/optaplanner-wb/optaplanner-wb-upstream-model/src/main/java/org/optaplanner/workbench/upstream/model/marshalling/HardMediumSoftScoreMapper.java
+/home/tonirikkola/Work/Codes/master/optaplanner-wb/optaplanner-wb-upstream-model/src/main/java/org/optaplanner/workbench/upstream/model/marshalling/BendableLongScoreMapper.java
+/home/tonirikkola/Work/Codes/master/optaplanner-wb/optaplanner-wb-upstream-model/src/main/java/org/optaplanner/workbench/upstream/model/marshalling/HardSoftDoubleScoreMapper.java
